@@ -1,6 +1,6 @@
 # Fast Abstractive Summarization-RL
 
-This repository contains the code for our ACL 2018 paper:
+this repository contains the code for our ACL 2018 paper:
 
 *[Fast Abstractive Summarization with Reinforce-Selected Sentence Rewriting](https://arxiv.org/abs/1805.11080)*.
 
